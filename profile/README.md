@@ -2,7 +2,6 @@
 
 [![License: GPL-2.0](https://img.shields.io/badge/License-GPL%202.0-blue.svg)](https://www.gnu.org/licenses/gpl-2.0) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**IgnisGuard: A Modern, Lean Linux-Based Firewall Distro**  
 IgnisGuard is a modern, lean Linux firewall OS built on nftables and XDP/eBPF, with Rust services and atomic, rollback-safe updates.
 
 ## Overview
