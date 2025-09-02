@@ -60,7 +60,7 @@ atomically; rollback is instant if something goes wrong.
 We welcome contributions! Check out our [contributing guidelines](CONTRIBUTING.md) for how to get involved. Report issues [here](https://github.com/IgnisGuard/ignisguard/issues) or join the discussion in [discussions](https://github.com/IgnisGuard/ignisguard/discussions).
 
 ## License
-- Base OS/appliance (including ostree integrations): GPL-2.0 (see LICENSE-GPL). Combined images may be subject to GPL-2.0 terms.
+- Base OS/appliance: GPL-2.0 (see LICENSE-GPL). Combined images may be subject to GPL-2.0 terms.
 - Custom Rust services/tools: MIT (see LICENSE-MIT).
 - Source files include SPDX identifiers.
 	
